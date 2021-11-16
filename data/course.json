@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cfb51f74-da5d-f448-9e92-eb78b1d1466c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Electromagnetic Wave Theory",
+  "course_description": "6.632 is a graduate subject on electromagnetic wave theory, emphasizing mathematical approaches, problem solving, and physical interpretation. Topics covered include: waves in media, equivalence principle, duality and complementarity, Huygens' principle, Fresnel and Fraunhofer diffraction, dyadic Green's functions, Lorentz transformation, and Maxwell-Minkowski theory. Examples deal with limiting cases of Maxwell's theory and diffraction and scattering of electromagnetic waves.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.632",
+  "learning_resource_types": [
+    "Simulation Videos",
+    "Problem Sets",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
